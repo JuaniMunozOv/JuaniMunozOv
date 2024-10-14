@@ -5,4 +5,4 @@ Mi nombre es Juan Ignacio Muñoz, un Estudiante de Ingeniería en Software apasi
 
 🛠️ Tecnologías que utilizo:
 
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" height="30" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg" height="30" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png" height="30" width="30"> </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" height="40" width="40" style="margin-right: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" width="40" style="margin-right: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg" height="40" width="50" style="margin-right: 20px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png" height="40" width="40"> </p>
