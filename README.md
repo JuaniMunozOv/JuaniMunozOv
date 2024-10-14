@@ -6,7 +6,6 @@ Mi nombre es Juan Ignacio Muñoz, un Estudiante de Ingeniería en Software apasi
 
 	-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" height='20' width='20' > QGIS
 	- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height='20' width='20' >  Python
-	- <img src="https://user-images.githubusercontent.com/65202664/129941859-76b9017d-cbfa-4de1-82ff-c67c929d95d9.png" height='22' width='30' > Html
-	- <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" height='22' width='30' > Css
+	- <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg" height='22' width='30' > Gdal
 	- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png" height='22' width='18' > PostGis
 
